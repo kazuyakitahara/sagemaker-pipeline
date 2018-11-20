@@ -1,4 +1,4 @@
-# SageMaker Pipeline
+# SageMaker Pipeline Sample
 ## Introduction
 
 This is a sample solution using a SageMaker pipeline.  This implementation could be useful for any organization trying to automate their use of Machine Learning.  With an implementation like this, any inference is easy, and can simply be queried through an endpoint to receive the output of the model’s inference, tests can be automatically performed for QA, and ML code can be quickly updated to match needs.
