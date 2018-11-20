@@ -17,7 +17,7 @@ commit_id = data["Parameters"]["CommitID"]
 timestamp = data["Parameters"]["Timestamp"]
 
 
-endpoint_name = endpoint_name + "-" + commit_id + "-" + timestamp
+# endpoint_name = endpoint_name + "-" + commit_id + "-" + timestamp
 
 runtime = boto3.client('runtime.sagemaker') 
 
